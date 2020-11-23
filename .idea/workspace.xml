@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbcd63d0-b994-44f0-944a-3d5a6cfaa34e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kgN1cyzHGxBJ3BQnyNCLzpA5eh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbcd63d0-b994-44f0-944a-3d5a6cfaa34e" name="Default Changelist" comment="" />
+      <created>1606118060948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606118060948</updated>
+      <workItem from="1606118064409" duration="14000" />
+      <workItem from="1606118120498" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="871" y="577" key="Github.ShareDialog" timestamp="1606118442019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="871" y="577" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606118442019" />
+    <state x="745" y="240" key="Github.UntrackedFilesDialog" timestamp="1606118493250">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="240" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606118493250" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1606118206504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606118206504" />
+  </component>
+</project>
